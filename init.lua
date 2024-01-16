@@ -1,2 +1,2 @@
 require('dependencies')
-require('spaces')
+-- require('screen-navigation')
