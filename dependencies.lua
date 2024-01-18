@@ -1,4 +1,4 @@
-local spoonInstaller = require("spoons")
+local spoonInstaller = require("internal.spoons")
 
 -- List of all the spoons to be installed 
 local spoons = {

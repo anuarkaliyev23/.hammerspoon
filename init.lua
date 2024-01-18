@@ -1,2 +1,2 @@
 require('dependencies')
--- require('screen-navigation')
+require('expose')
